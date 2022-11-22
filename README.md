@@ -1,1 +1,2 @@
-# unsupervised-learning-spins-systems
+# Unsupervised Learning on Spins Systems
+
