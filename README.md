@@ -14,7 +14,6 @@ url = {}
 ```
 
 The data was generated via Monte Carlo simulation, in C language.
-Repeating the program multiple times we could create the data available in the folders.
-
+Repeating multiple times we could create the data available in the folders.
 We analised with Machine Learning tools, in Python 3.x language.
 
