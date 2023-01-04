@@ -1,4 +1,4 @@
-# Unsupervised Learning on Spins Systems
+# Unsupervised Learning in Spins Systems
 
 Data and codes from my graduation thesis, the PDF can be found [here]().
 
